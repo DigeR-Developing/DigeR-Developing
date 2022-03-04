@@ -1,0 +1,53 @@
+* {
+    background: #777;
+    font-family: "Quicksand", sans-serif;
+}
+
+
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    /* display: none; */
+}
+
+.text-button {
+    text-align: center;
+}
+
+.text-button button {
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.text-button button:hover {
+    cursor: pointer;
+}
+
+
+.text-box {
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    margin-top: 5%;
+    border-radius: 15px;
+    width: 30%;
+    margin-left: 35%;
+    transform: scale(0);
+}
+
+
+.nav-bar {
+    margin-top: 20%;
+    font-size: 30px;
+    text-align: center;
+}
+
+.nav-bar ul l a {
+    color: white;
+    text-decoration: none;
+}
