@@ -1,0 +1,22 @@
+* {
+    background: #777;
+    font-family: "Quicksand", sans-serif;
+}
+
+
+.nav-bar {
+    text-align: right;
+    margin-right: 30px;
+    font-size: 30px;
+}
+
+.nav-bar ul l a {
+    text-decoration: none;
+    color: white;
+    margin-right: 30px;
+}
+
+.header {
+    text-align: center;
+    font-size: 40px;
+}

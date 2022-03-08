@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1757.781" height="497.518" viewBox="0 0 1757.781 497.518">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a0ff"/>
+      <stop offset="1" stop-color="#005080"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ce07be"/>
+      <stop offset="1" stop-color="#63018d"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-82.219 -518.411)">
+    <path id="Path_2" data-name="Path 2" d="M997.773,993.444s70.186-110.88,290.847-123.731,586.2-408.224,586.2-356.671v478.15Z" transform="translate(-34.816 22)" fill="url(#linear-gradient)"/>
+    <path id="Path_3" data-name="Path 3" d="M996.316,988.922s-.443-116.022,0-239.158c.161-44.881-.223-91.6,0-132.793.121-22.273-.452-46.456-.378-65.1.057-14.379.046-27.262-.425-38.7-.281-6.809,1.334-8.685,3.245-12.38,31.8-61.559,373.436,355.536,582.189,367.647,220.67,12.8,296.954,123.432,296.123,123.675" transform="translate(-913.262 23.819)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
